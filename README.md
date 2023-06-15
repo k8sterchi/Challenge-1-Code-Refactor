@@ -42,6 +42,7 @@ Aside from the [starter code](https://github.com/coding-boot-camp/urban-octo-tel
 ### [Best Practices for README.md](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 To successfully refactor the code and make Horiseon's site more accessible, I referred to the following resources:
+### [HTML Tutorial](https://www.w3schools.com/html/?tag=search%20engine%20optimization)
 ### [Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 ### [HTML Structure](https://www.freecodecamp.org/news/html-best-practices/#:~:text=It%20is%20best%20practice%20to,and%20elements%20instead)
 ### [Organizing CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
