@@ -10,11 +10,11 @@ I then refactored the code in order to increase the site's accessibility in acco
 This project helped me become more familiar with the relationship between HTML and CSS, and how to best structure each of them for optimum site accessibility. 
 
 ## Table of Contents:
-#### [User Story](#User-Story)
-#### [Acceptance Criteria](#Acceptance-Criteria)
-#### [Assets](#Assets)
-#### [Reflections](#Reflections)
-#### [Helpful Resources](#Helpful-Resources)
+[User Story](#user-story)   
+[Acceptance Criteria](#acceptance-criteria)  
+[Assets](#assets)  
+[Reflections](#reflections)   
+[Helpful Resources](#helpful-resources)    
 
 
 ## User Story:
