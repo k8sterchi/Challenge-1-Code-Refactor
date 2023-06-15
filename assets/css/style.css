@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* This section defines the general style within the body. */
+/* This section defines the general style within the header of the body. */
 body {
     background-color: #d9dcd6;
 }
@@ -25,7 +25,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* Still trying to get the spacing correct!*/
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,7 +37,7 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-/*Increased the margin-left but the spacing is still wrong.*/
+
 header nav ul li {
     display: inline-block;
     margin-left: 50px;
@@ -51,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* this .class selector, in a section element of its own, styles the hero-image*/
 .hero-image {
     height: 800px;
     width: 100%;
@@ -60,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* within the main element are sections with .float classes defining where the image should float */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,13 +70,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* within the main element this .content class selector styles elements with class=content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* within the aside element, this .benefits class selector styles elements with class=benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +120,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* consolidated selectors, todo: images seem bigger in the expectation screenshot */
+/* consolidated selectors */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -129,12 +129,13 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* consolidated selectors and styled the font to match the expected image */
+/* consolidated selectors */
 .search-engine-optimization h3, .online-reputation-management h3, .social-media-marketing h3 {
     line-height: 24px;
     font-weight: normal;
     font-size: 20px;
 }
+/* within the footer element of the body element, .footer styles elements with class=footer */
 .footer {
     padding: 30px;
     clear: both;
