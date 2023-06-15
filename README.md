@@ -9,6 +9,8 @@ I then refactored the code in order to increase the site's accessibility in acco
 
 This project helped me become more familiar with the relationship between HTML and CSS, and how to best structure each of them for optimum site accessibility. 
 
+Click [here](https://k8sterchi.github.io/Horiseon-Increase-Site-Accessibility/) to visit the web application.
+
 ## Table of Contents:
 [User Story](#user-story)   
 [Acceptance Criteria](#acceptance-criteria)  
