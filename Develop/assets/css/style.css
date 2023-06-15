@@ -25,7 +25,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Still trying to get the spacing correct!*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +40,7 @@ header nav ul {
 /*Increased the margin-left but the spacing is still wrong.*/
 header nav ul li {
     display: inline-block;
-    margin-left: 180px;
+    margin-left: 50px;
 }
 
 a {
@@ -48,8 +48,7 @@ a {
     text-decoration: none;
 }
 
-h3,
-h4 {
+p {
     font-size: 16px;
 }
 
@@ -88,26 +87,32 @@ h4 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* consolidated selectors, todo: make font weight normal? */
+/* consolidated selectors */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
     font-size: 16px;
-    font-weight: normal;
 }
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+/* consolidated selectors */
+.benefit-lead h3, 
+.benefit-brand h3, 
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
     font-size: 24px;
 }
 /* consolidated selectors */
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img, 
+.benefit-brand img, 
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 /* consolidated selectors */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.search-engine-optimization, 
+.online-reputation-management, 
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
